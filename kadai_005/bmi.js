@@ -1,5 +1,5 @@
-let height = 150;
+let height = 1.50;
 let weight = 45;
-let BMI = weight/height/height*10000;
+let bmi = weight/height/height;
 
-console.log (BMI)
+console.log (bmi)
